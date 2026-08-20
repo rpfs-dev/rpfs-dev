@@ -11,8 +11,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/LOCATION-JABOAT%C3%83O%20DOS%20GUARARAPES%2C%20PE-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=8A2BE2" />
 <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEV-FF00E4?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=FF00E4" />
+<img src="https://img.shields.io/badge/FOCO-ENGENHARIA%20DE%20SOFTWARE-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=codeium&logoColor=8A2BE2" />
 
 </div>
 
@@ -23,48 +23,34 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> SOBRE MIM
+## 🧬 SOBRE MIM
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td>
 
-```yaml
-core_module: identidade.yaml
---------------------------------------------------
-nome: Renan Pereira
-alias_github: rpfs-dev
-formacao: >
-  Análise e Desenvolvimento de Sistemas (4º período)
-  UniFBV Wyden — Ensino a Distância
-foco_atual:
-  - Engenharia de Software
-  - Desenvolvimento Full-Stack
-  - APIs REST & Arquitetura de Sistemas
+> `# Estudante de Análise e Desenvolvimento de Sistemas (4º período) — UniFBV Wyden`
 
-sobre: >
-  Estudante de ADS e entusiasta de Engenharia de Software.
-  Movido pela capacidade da tecnologia de resolver problemas
-  reais e facilitar a vida das pessoas — seja estruturando a
-  lógica de um sistema complexo, seja ajudando diretamente
-  usuários a resolverem questões de software e hardware.
+Sou um entusiasta de **Engenharia de Software**, movido pela capacidade que a tecnologia tem de **resolver problemas reais** e facilitar a vida das pessoas — seja estruturando a lógica de um sistema complexo, seja ajudando diretamente usuários a resolverem questões de software e hardware no dia a dia.
 
-soft_skills:
-  - Empatia e comunicação clara (experiência prévia em
-    atendimento ao público de alto fluxo)
-  - Agilidade para resolver problemas sob pressão
-  - Aprendizado autônomo e disciplina em ensino a distância
+&nbsp;
 
-objetivo: >
-  Aplicar lógica de programação e vontade genuína de ajudar,
-  evoluindo continuamente em desenvolvimento de software e
-  suporte tecnológico.
---------------------------------------------------
-```
+**🎯&nbsp; Foco atual**
+&nbsp;&nbsp;&nbsp;&nbsp;Engenharia de Software · Desenvolvimento Full-Stack · APIs REST & Arquitetura de Sistemas
 
-<br clear="right">
+**💬&nbsp; Diferencial**
+&nbsp;&nbsp;&nbsp;&nbsp;Vivência prévia lidando diretamente com o público em cenários de alto fluxo, o que desenvolveu empatia, comunicação clara e agilidade para resolver problemas sob pressão — essenciais para entender a real dor do usuário.
+
+**🚀&nbsp; Objetivo**
+&nbsp;&nbsp;&nbsp;&nbsp;Aplicar lógica de programação e vontade genuína de ajudar, evoluindo continuamente em desenvolvimento de software e suporte tecnológico.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> TECH STACK
+## ⚡ TECH STACK
 
 <div align="center">
 
@@ -122,7 +108,7 @@ objetivo: >
 
 <br>
 
-## <img src="https://media.giphy.com/media/L1R1tvL9vzHZTPYpLI/giphy.gif" width="35"> PROJETOS EM DESTAQUE
+## 🗃️ PROJETOS EM DESTAQUE
 
 <table align="center" width="100%">
 <tr>
@@ -163,7 +149,7 @@ Interface **visualmente moderna, responsiva** e de fácil acesso, construída co
 
 <br>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> OBJETIVOS ATUAIS
+## 🎯 OBJETIVOS ATUAIS
 
 <div align="center">
 
@@ -191,7 +177,7 @@ renan@rpfs-dev:~$ █
 
 <br>
 
-## <img src="https://media.giphy.com/media/iikbCyIiOmgL9GDeYh/giphy.gif" width="35"> GITHUB ANALYTICS
+## 📡 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -214,7 +200,7 @@ renan@rpfs-dev:~$ █
 
 <br>
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35"> CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -230,7 +216,7 @@ renan@rpfs-dev:~$ █
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> REDES & CONTATO
+## 📶 REDES & CONTATO
 
 <div align="center">
 
