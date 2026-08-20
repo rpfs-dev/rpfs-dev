@@ -1,18 +1,12 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL - EFEITO DE BOOT DO SISTEMA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=RENAN%20PEREIRA&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=RENAN%20PEREIRA&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=45" />
 
 <br>
 
 <!-- STATUS DE INICIALIZAÇÃO -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=45&lines=%3E+INITIALIZING+SYSTEM...+%5BOK%5D;%3E+LOADING+CORE+MODULES%3A+PYTHON+%7C+JAVASCRIPT+%7C+TYPESCRIPT...+%5BOK%5D;%3E+ESTABLISHING+CONNECTION+TO+RPFS-DEV...+%5BOK%5D;%3E+SISTEMA+PRONTO.+BEM-VINDO%2C+VISITANTE." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEV-FF00E4?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=FF00E4" />
-<img src="https://img.shields.io/badge/FOCO-ENGENHARIA%20DE%20SOFTWARE-8A2BE2?style=for-the-badge&labelColor=0D1117&logo=codeium&logoColor=8A2BE2" />
 
 </div>
 
