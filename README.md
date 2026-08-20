@@ -175,12 +175,12 @@ renan@rpfs-dev:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rpfs-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E4&text_color=C9D1D9&ring=00F0FF&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats-ashy-seven-49.vercel.app/api?username=rpfs-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E4&text_color=C9D1D9&ring=00F0FF&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpfs-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00E4&fire=00F0FF&currStreakLabel=00F0FF" width="49%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpfs-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="49%" />
+<img src="https://github-readme-stats-ashy-seven-49.vercel.app/api/top-langs/?username=rpfs-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="49%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=rpfs-dev&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="80%" />
 
