@@ -112,11 +112,11 @@ Sou um entusiasta de **Engenharia de Software**, movido pela capacidade que a te
 ### 🗂️ Sistema de Cadastro de Membros
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-FFA500?style=flat-square&labelColor=0D1117" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=dark" /><br><br>
 
-**API REST robusta e segura**, construída com Node.js, TypeScript e banco de dados relacional (SQL) para gerenciar back-end e regras de negócio de gestão de membros.
+**API REST robusta e segura**, construída com Python e banco de dados relacional (SQL) para gerenciar o back-end e regras de negócio de um cliente real.
 
-`Node.js` `TypeScript` `SQL` `REST API`
+`Python` `SQL` `REST API`
 
 </div>
 </td>
@@ -128,7 +128,7 @@ Sou um entusiasta de **Engenharia de Software**, movido pela capacidade que a te
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /><br><br>
 
-Interface **visualmente moderna, responsiva** e de fácil acesso, construída com o ecossistema React (Next.js) e Tailwind CSS.
+Interface **visualmente moderna, responsiva** e focada na experiência do usuário, desenvolvida sob demanda com React (Next.js) e Tailwind CSS.
 
 `React` `Next.js` `Tailwind CSS`
 
