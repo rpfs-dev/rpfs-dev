@@ -55,7 +55,7 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em Engenharia de Soft
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 ### `Back-end & Dados`
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mysql,sqlite&theme=dark" />
 
 ### `Ferramentas & Infra`
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
@@ -83,9 +83,10 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em Engenharia de Soft
 <td valign="top" width="50%">
 
 ### ⚙️ Back-end
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -139,10 +140,6 @@ Interface **visualmente moderna, responsiva** e focada na experiência do usuár
 
 <div align="center">
 <sub>💡 Novos projetos em breve — acompanhe as atualizações no <a href="https://github.com/rpfs-dev">perfil</a>.</sub>
-</div>
-
-
-
 </div>
 
 <br>
@@ -214,4 +211,12 @@ Interface **visualmente moderna, responsiva** e focada na experiência do usuár
 
 <div align="center">
 
-leia esse código pro github, o que posso melhorar der sugestões?
+<img src="https://komarev.com/ghpvc/?username=rpfs-dev&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<sub>⚡ Desenvolvido com foco em resolver problemas reais e ajudar pessoas através da tecnologia.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" />
